@@ -11,8 +11,8 @@
 # clone 文件
 git clone https://github.com/PongJi/vue2-sellapp.git
 
-# 进入 vue2-sellapp 文件夹
-cd vue2-sellapp
+# 进入 vue2-sellapp-master 文件夹
+cd vue2-sellapp-master
 
 # install dependencies
 npm install
